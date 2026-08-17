@@ -1,0 +1,4 @@
+opencv-python==4.10.0
+Pillow==12.2.0
+torch==2.5.1
+transformers==4.56.1
